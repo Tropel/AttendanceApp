@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AttendanceApp</string>
+    <string name="app_name">Attendance App</string>
     <string name="title_activity_preference">PreferenceActivity</string>
 
     <!-- TODO: Remove or change this placeholder text -->
