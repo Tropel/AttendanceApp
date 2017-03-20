@@ -19,7 +19,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
-            android:text="Marcel Toeltl"
+            android:text="Marcel F. Toeltl"
             android:textColor="#ffffff"
             android:textSize="14sp"
             android:textStyle="bold" />
